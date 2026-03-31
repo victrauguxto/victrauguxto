@@ -1,10 +1,10 @@
 👋 Hi, I’m Victor Augusto (@victrauguxto)
 
-🚀 Technical Data Analyst with a software engineering mindset  
-Building data products, APIs, and analytics systems end-to-end  
+🚀 Data Analyst transitioning into Data Engineering
+Building end-to-end data pipelines, APIs, and data systems
 
-🧠 Experience with:
-Python, SQL, FastAPI, Flask, Power BI, PostgreSQL  
+🧠 Strong in: SQL, Python, data modeling, and API integrations
+Experience with PostgreSQL, FastAPI, Flask, and production data workflows 
 Feature engineering, ranking systems, and performance analytics  
 
 🌍 Working with international data products (e-sports & logistics)
