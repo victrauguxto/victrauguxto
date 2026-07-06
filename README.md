@@ -89,7 +89,7 @@ My goal is to combine my analytical background with software development to buil
 ## 📫 Contact
 
 **Email:** [augusto.victor446@gmail.com](mailto:augusto.victor446@gmail.com)
-**LinkedIn:** [add your LinkedIn here]
+**LinkedIn:** [/victor-augusto-martins](https://www.linkedin.com/in/victor-augusto-martins)
 
 ---
 
