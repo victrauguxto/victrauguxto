@@ -9,7 +9,7 @@ The tools have changed over my career (spreadsheets, SQL, Python, web apps, and 
 ## Featured
 
 - **RAG from scratch vs. LangChain** (repository coming soon): a controlled benchmark with a hand-labeled golden set. Same model, prompt, temperature, chunk size and k; only the implementation changed. It includes an error analysis by pipeline stage and documents its own limitations.
-- **[pubg_data_pipeline](https://github.com/victrauguxto/pubg_data_pipeline)**: an Apache Airflow pipeline for PUBG data. <!-- TODO: add "runs end to end" only after the updated version is pushed and verified -->
+- **[pubg_data_pipeline](https://github.com/victrauguxto/pubg_data_pipeline)**: an Apache Airflow pipeline that runs end to end: PUBG API → PostgreSQL in bronze/silver/gold layers, idempotent loads, Docker Compose.
 - **[growth-strategy-analyzer](https://github.com/victrauguxto/growth-strategy-analyzer)**: A/B test analysis with deterministic, explainable decision rules and an HTML report.
 
 ## Stack
